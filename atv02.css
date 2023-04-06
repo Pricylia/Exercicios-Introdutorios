@@ -1,0 +1,17 @@
+html{
+    background: linear-gradient(to left,purple, purple, brown);
+    color: #e0b1cb;
+}
+
+a{
+    color: #c7f9cc;
+    text-decoration: none;
+}
+
+h1{
+    color: white;
+}
+
+h2{
+    color: #000814;
+}

@@ -1,0 +1,4 @@
+html {
+    background: conic-gradient(red, blue, pink) no-repeat center fixed;
+    background-size: cover;
+  }

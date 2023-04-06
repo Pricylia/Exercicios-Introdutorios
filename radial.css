@@ -1,0 +1,8 @@
+html{
+    background: radial-gradient(red, blue, pink) no-repeat center fixed;
+    background-size: cover;
+}
+
+.ta{
+    background-color:rgba(104, 51, 104, 0.3) ;
+}
